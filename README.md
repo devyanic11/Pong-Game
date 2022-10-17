@@ -1,9 +1,13 @@
 # Pong-Game
 
 For Left Paddle:
-w - to go up
-s - to go down
-  
+
+Press "w" - to go up
+Press "s" - to go down
+
+
+
 For Right Paddle:
-Up Arrow key - to go up
-Down Arrow Key - to go down
+
+Press Up Arrow key - to go up
+Press Down Arrow Key - to go down
